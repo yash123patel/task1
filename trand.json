@@ -1,21 +1,21 @@
 {
-  “data”: [
+  "data": [
     {
-      “id”: “1”,
-      “category”: “popular”,
-      “audio_url”: “https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3”,
-      “audio_title”: “trend”,
-      “singer_name”: “yash patel”,
-      “audio_thumbnail_image”: “https://img.wynk.in/unsafe/200x200/filters:no_upscale():format(jpg)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_hungama/music/859747921099/1621591819/srch_hungama_66410440.jpg”,
-      “total_reels”: “122k reels”,
-      “video_list”: [
+      "id": "1",
+      "category": "popular",
+      "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "audio_title": "trend",
+      "singer_name": "yash patel",
+      "audio_thumbnail_image": "https://img.wynk.in/unsafe/200x200/filters:no_upscale():format(jpg)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_hungama/music/859747921099/1621591819/srch_hungama_66410440.jpg",
+      "total_reels": "122k reels",
+      "video_list": [
         {
-          “id”: “1",
-          “video_thumbnail_image”: “https://www.oberlo.com/media/1603954287-img0335.png?w=1824&fit=max”,
-          “video_url”: “https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-water-1164-large.mp4”,
-          “total_view”: “12k”,
-          “caption”: “beautiful song....“,
-          “song_name”: “ringtone”
+          "id": "1",
+          "video_thumbnail_image": "https://www.oberlo.com/media/1603954287-img0335.png?w=1824&fit=max",
+          "video_url": "https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-water-1164-large.mp4",
+          "total_view": "12k",
+          "caption": "beautiful song....",
+          "song_name”: “ringtone"
         }
       ]
     }
