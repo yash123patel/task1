@@ -43,7 +43,7 @@
     },
     {
       "id": "6",
-      "isNativeAd": false,
+      "isNativeAd": true,
       "music_name": "",
       "album_name": "",
       "music_image": "",
