@@ -1,209 +1,211 @@
-{
-  "message": "success",
-  "data": [
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "",
-      "isRewarded": true,
-      "username": "",
-      "profilePhoto": "",
-      "time": "",
-      "view": "",
-      "title": "",
-      "desc": "",
-      "videoUrl": "",
-      "thumbnail": ""
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "",
-      "isRewarded": true,
-      "username": "",
-      "profilePhoto": "",
-      "time": "",
-      "view": "",
-      "title": "",
-      "desc": "",
-      "videoUrl": "",
-      "thumbnail": ""
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "",
-      "isRewarded": true,
-      "username": "",
-      "profilePhoto": "",
-      "time": "",
-      "view": "",
-      "title": "",
-      "desc": "",
-      "videoUrl": "",
-      "thumbnail": ""
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "",
-      "isRewarded": true,
-      "username": "",
-      "profilePhoto": "",
-      "time": "",
-      "view": "",
-      "title": "",
-      "desc": "",
-      "videoUrl": "",
-      "thumbnail": ""
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "",
-      "isRewarded": true,
-      "username": "",
-      "profilePhoto": "",
-      "time": "",
-      "view": "",
-      "title": "",
-      "desc": "",
-      "videoUrl": "",
-      "thumbnail": ""
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    },
-    {
-      "uid": "1.1M",
-      "isRewarded": false,
-      "username": "app user name",
-      "profilePhoto": "profilePhoto profilePhoto profilePhoto",
-      "time": "25:10",
-      "view": "100k",
-      "title": "app title",
-      "desc": "Item desc like subtitle",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-large.mp4",
-      "thumbnail": "https://mixkit.imgix.net/videos/preview/mixkit-palm-tree-in-front-of-the-sun-1191-0.jpg?q=80&auto=format%2Ccompress&w=460"
-    }
-  ]
-}
+[
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat1"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat1"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat1"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat1"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat1"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat1"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat2"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat2"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat2"
+  },
+
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat2"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat2"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat2"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat3"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat3"
+  },
+  {
+    "user_name": "",
+    "user_image": "",
+    "sub_title": "",
+    "video_id": "",
+    "thumb_nail_image": "",
+    "video_time": "",
+    "type": ""
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat3"
+  },
+  {
+    "user_name": "Eva Begum",
+    "user_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "sub_title": "Universal Studio",
+    "video_id": "2KuabuIBc9I",
+    "thumb_nail_image": "https://i.ytimg.com/vi/2KuabuIBc9I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbj0vq5M6XuoIjXMWrfFHoL-4RmQ",
+    "video_time": "2:48",
+    "type": "cat3"
+  }
+
+]
