@@ -1,7 +1,7 @@
 {
   "status": "success",
   "data": {
-    "adsclicklimit": "4",
+    "adsclicklimit": "1",
     "isAdVisible": "2",
     "isAdVisibleLimit": "2",
     "video_list_url": "https://anandyadavsahajanandinfotech.github.io/newmsg/video_list.json"
