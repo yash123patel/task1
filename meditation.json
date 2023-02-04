@@ -22,15 +22,6 @@
       "music_url": "https://drive.google.com/uc?export=view&id=1XT6fxOgdxOoYlNDbpNEHr4SIlBcXz9aa"
     },
     {
-      "id": "3",
-      "isNativeAd": true,
-      "isOffline": false,
-      "music_name": "",
-      "album_name": "",
-      "music_image": "",
-      "music_url": ""
-    },
-    {
       "id": "4",
       "isNativeAd": false,
       "isOffline": false,
@@ -49,15 +40,6 @@
       "musicImageSpure": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJg8qXjwYTjyP1Rmt9BBqE3u5IcY9dnsTjjKB5T3BZhQb-1E_UxtLLvj6GHKDhs_J2Ec&usqp=CAU",
       "musicImageVer": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJg8qXjwYTjyP1Rmt9BBqE3u5IcY9dnsTjjKB5T3BZhQb-1E_UxtLLvj6GHKDhs_J2Ec&usqp=CAU",
       "music_url": "https://drive.google.com/uc?export=view&id=1XT6fxOgdxOoYlNDbpNEHr4SIlBcXz9aa"
-    },
-    {
-      "id": "6",
-      "isNativeAd": true,
-      "isOffline": false,
-      "music_name": "",
-      "album_name": "",
-      "music_image": "",
-      "music_url": ""
     },
     {
       "id": "7",
