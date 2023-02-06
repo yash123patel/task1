@@ -1,4 +1,6 @@
-[
+{
+  "status": "success",
+  "data": [
     {
       "name": "Ascension Island",
       "code": "AC",
@@ -1827,3 +1829,4 @@
       "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WALES.svg"
     }
   ]
+}
