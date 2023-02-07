@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "data": {
+    "adsClickLimit": "5",
+    "isAdVisible": "1",
+    "isAdVisibleLimit": "1",
+    "flag1": true,
+    "flag2": false,
+    "flag3": true,
+    "flag4": true,
+    "flag5": true,
+    "flag6": true,
+    "flag7": true,
+    "flag8": true,
+    "flag9": true,
+    "flag10": true,
+    "flag11": true,
+    "flag12": true,
+    "flag13": true,
+    "flag14": true,
+    "flag15": true,
+    "flag16": true,
+    "flag17": true,
+    "flag18": true,
+    "flag19": true,
+    "flag20": true,
+    "openAdID":"7f1aaeabeb14682e",
+    "interAdID":"394ca20d85458b1a",
+    "mrecAdId":"fghgfhcfgdfh165vx65"
+  },
+  "ads_data": {
+    "id": "1",
+    "hash_tag":"Use after vibration",
+    "title": "Sleep, Meditate, Relax\nMindful Meditation",
+    "image_url": "https://play-lh.googleusercontent.com/hFIn0WnVrzanuzkFrknd3Sb7RwMhDgwmsg8K-va6rLai1Zpy1eforMMoz3409b7praI",
+    "app_url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps",
+    "btn_val": "Listen Now"
+  }
+}
