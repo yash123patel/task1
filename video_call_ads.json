@@ -1,7 +1,7 @@
 {
   "status": "success",
   "data": {
-    "adsClickLimit": "5",
+    "adsClickLimit": "1",
     "isAdVisible": "1",
     "isAdVisibleLimit": "1",
     "flag1": false,
@@ -54,10 +54,12 @@
     "isShow18": true,
     "isShow19": true,
     "isShow20": true,
-    "openAdID": "7f1aaeabeb14682e12121210",
-    "interAdID": "394ca20d85458b1a1214554",
-    "inter_with_mediation": "asdfasfws",
-    "mrecAdId": "fghgfhcfgdfh165vx656459644458"
+    "open_ad_id": "7f1aaeabeb14682e12121210",
+    "inter_normal_ad_id": "394ca20d85458b1a1214554",
+    "inter_mediation_ad_id": "asdfasfws",
+    "mrec_ad_id": "fghgfhcfgdfh165vx656459644458",
+    "banner_normal_ad_id": "fghgfhcfgdfh165vx656459644458",
+    "banner_mediation_ad_id": "fghgfhcfgdfh165vx656459644458"
   },
   "ads_data": {
     "id": "1",
