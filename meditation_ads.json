@@ -1,7 +1,7 @@
 {
   "status": "success",
   "data": {
-    "adsClickLimit": "5",
+    "adsClickLimit": "10",
     "isAdVisible": "1",
     "isAdVisibleLimit": "1",
     "flag1": true,
