@@ -42,6 +42,9 @@
     "image_url": "https://play-lh.googleusercontent.com/hFIn0WnVrzanuzkFrknd3Sb7RwMhDgwmsg8K-va6rLai1Zpy1eforMMoz3409b7praI",
     "app_url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps",
     "app_version" : "1.0.1",
-    "btn_val": "Listen Now"
+    "btn_val": "Listen Now",
+    "cus_ad_title": "All New Games",
+    "cus_ad_des": "Play all category games",
+    "cus_ad_image": "https://play-lh.googleusercontent.com/RMYZ3BTbvqWFtef5jw1iqXfIzsl0CUhUDX_KVd4Y4JA9i9uPpGf_qJkLq7lnCCvnYfY=w240-h480-rw"
   }
 }
