@@ -1,0 +1,205 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Lost In Space Lost In Space Lost In Space",
+      "album_name": "Lost In Space Lost In Space Lost In Space",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/space_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/space_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/lost-in-space-ambient-soundscape-12294.mp3"
+    },
+    {
+      "id": "2",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Sands Of Time Lost In Space Lost In Space",
+      "album_name": "Sands Of Time Lost In Space Lost In Space",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sand_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/sand_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/sands-of-time-ambient-432hz-99489.mp3"
+    },
+    {
+      "id": "3",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Forest",
+      "album_name": "Forest",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/forest_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/forest_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/black-box-cozy-forest-122347.mp3"
+    },
+    {
+      "id": "4",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Water With Sleep",
+      "album_name": "Water With Sleep",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/water_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/water_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/body-amp-soul-7998.mp3"
+    },
+    {
+      "id": "5",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Rain By Sleep",
+      "album_name": "Rain By Sleep",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/rain_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/rain_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/rain-by-prabajithk-119000.mp3"
+    },
+    {
+      "id": "6",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Wanderlust Ambient",
+      "album_name": "Wanderlust Ambient",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/wanderlust_suqre.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/wanderlust_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/wanderlust-ambient-soundscape-135399.mp3"
+    },
+    {
+      "id": "7",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "The Velvet",
+      "album_name": "The Velvet",
+      "musicImageSpure": "https://m.media-amazon.com/images/I/81bOlvckWCL._SL1200_.jpg",
+      "musicImageVer": "https://m.media-amazon.com/images/I/81bOlvckWCL._SL1200_.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-velvet-darkness-ambient-soundscape-135395.mp3"
+    },
+    {
+      "id": "8",
+      "isNativeAd": true,
+      "isOffline": false,
+      "music_name": "Forest Chill Music For Relaxation",
+      "album_name": "Forest Chill Music For Relaxation",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/forest_chill_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/forest_chill_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/emerald-forest-chill-music-for-relaxation-sleep-and-meditation-5536.mp3"
+    },
+    {
+      "id": "9",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Angel Night Chill",
+      "album_name": "Angel Night Chill",
+      "musicImageSpure": "https://i.pinimg.com/originals/48/0f/0c/480f0c6cf41442de7f8faab86f4b6493.jpg",
+      "musicImageVer": "https://i.pinimg.com/originals/48/0f/0c/480f0c6cf41442de7f8faab86f4b6493.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/angel-night-chill-music-for-relaxation-sleep-and-meditation-5535.mp3"
+    },
+    {
+      "id": "10",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "meditation-music-calm-relaxing-music-5152",
+      "album_name": "meditation-music-calm-relaxing-music-5152",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/clam_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/clam_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-music-calm-relaxing-music-5152.mp3"
+    },
+    {
+      "id": "11",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "The Tone of Love",
+      "album_name": "The Tone of Love",
+      "musicImageSpure": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJ1ZSUyMGxvdmV8ZW58MHx8MHx8&w=1000&q=80",
+      "musicImageVer": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJ1ZSUyMGxvdmV8ZW58MHx8MHx8&w=1000&q=80",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/the-tone-of-love-ambient-soundscape-345hz-136451.mp3"
+    },
+    {
+      "id": "12",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Hare Krishna Flute",
+      "album_name": "Hare Krishna Flute",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/flute.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/flute.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/hare-krishna-flute-5200.mp3"
+    },
+    {
+      "id": "13",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Dreaming Seas",
+      "album_name": "Dreaming Seas",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/seas_square.jpg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/sease_ver.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/dreaming-seas-123642.mp3"
+    },
+    {
+      "id": "14",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Electronic Ambient Music",
+      "album_name": "Electronic Ambient Music",
+      "musicImageSpure": "https://i1.sndcdn.com/artworks-P2n8FttkOl2gzxTv-LuU9Vg-t500x500.jpg",
+      "musicImageVer": "https://i1.sndcdn.com/artworks-P2n8FttkOl2gzxTv-LuU9Vg-t500x500.jpg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/electronic-ambient-music-for-relaxation-and-meditation-9362.mp3"
+    },
+    {
+      "id": "15",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Relax In Frozen Forest",
+      "album_name": "relax-in-the-frozen-forest-126589",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sleep (17).jpeg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (17).jpeg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/relax-in-the-frozen-forest-126589.mp3"
+    },
+    {
+      "id": "16",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "meditation-space-olistik-sound-project-patrizio-yoga-12043",
+      "album_name": "meditation-space-olistik-sound-project-patrizio-yoga-12043",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sleep (21).jpeg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (21).jpeg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/meditation-space-olistik-sound-project-patrizio-yoga-12043.mp3"
+    },
+    {
+      "id": "17",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "relaxing-music-e-major-7966",
+      "album_name": "relaxing-music-e-major-7966",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sleep (26).jpeg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (26).jpeg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/relaxing-music-e-major-7966.mp3"
+    },
+    {
+      "id": "18",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Spiritual OM Sound",
+      "album_name": "mantra-om-sound-music-spiritual-frequency-11-12236",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sleep (27).jpeg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (27).jpeg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/mantra-om-sound-music-spiritual-frequency-11-12236.mp3"
+    },
+    {
+      "id": "19",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Healing Yoga",
+      "album_name": "ambient-celestial-dreamy-meditation-drone-healing-yoga-music-20846",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sleep (37).jpeg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (37).jpeg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/ambient-celestial-dreamy-meditation-drone-healing-yoga-music-20846.mp3"
+    },
+    {
+      "id": "20",
+      "isNativeAd": false,
+      "isOffline": false,
+      "music_name": "Healing Yoga",
+      "album_name": "ambient-celestial-dreamy-meditation-drone-healing-yoga-music-20846",
+      "musicImageSpure": "https://devkaranjurad.github.io/sleep_music_data/sleep (37).jpeg",
+      "musicImageVer": "https://devkaranjurad.github.io/sleep_music_data/cover (37).jpeg",
+      "music_url": "https://devkaranjurad.github.io/sleep_music_data/Marconi Union - Weightless.mp3"
+    }
+  ]
+}
