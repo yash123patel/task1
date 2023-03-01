@@ -1,13 +1,13 @@
 {
   "status": "success",
   "data": {
-    "adsClickLimit": "10",
+    "adsClickLimit": "2",
     "isAdVisible": "1",
     "isAdVisibleLimit": "1",
     "bannerFlag":false,
     "bannerShow":true,
     "flag1": true,
-    "flag2": false,
+    "flag2": true,
     "flag3": true,
     "flag4": true,
     "flag5": true,
