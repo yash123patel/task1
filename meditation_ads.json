@@ -26,7 +26,7 @@
     "flag18": true,
     "flag19": true,
     "flag20": true,
-    "google_ad_show": true,
+    "google_ad_show": false,
     "onlineMrecCount": 5,
     "offlineMrecCount": 5,
     "bannerId":"8cb7acd089752646",
