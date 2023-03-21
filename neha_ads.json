@@ -27,7 +27,7 @@
     "live_video_end": false,
     "random_video_end": false,
     "isBannerShow1": true,
-    "isBannerShow2": false,
+    "isBannerShow2": true,
     "isBannerShow3": false,
     "isBannerShow4": false,
     "isBannerShow5": false,
