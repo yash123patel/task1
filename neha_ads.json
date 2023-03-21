@@ -4,7 +4,7 @@
     "adsClickLimit": "2",
     "isAdVisible": "1",
     "isAdVisibleLimit": "1",
-    "flag1": false,
+    "flag1": true,
     "flag2": false,
     "flag3": false,
     "flag4": false,
