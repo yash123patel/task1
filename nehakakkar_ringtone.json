@@ -20,6 +20,15 @@
       },
       {
         "id": "1",
+        "title": "Cool Ringtone",
+        "desc": "Feel cool ringtone",
+        "thumbnail": "https://play-lh.googleusercontent.com/b5xDYXUHBnJL12z7Bj4yz4K28GLKyZFQwf4cD42Q41cdW-mwlv7Yb7qXyW-97UDu_7Y=w240-h480-rw",
+        "music_url": "https://play.google.com/store/apps/details?id=com.phoneringtone.coolphoneringtone",
+        "file_name": "Oh Sanam Mere Hamdam ! Tony Kakkar.mp3",
+        "isAds": true
+      },
+      {
+        "id": "1",
         "title": "Shona shona",
         "desc": "Feel like neha kakkar",
         "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/shona shona.jpeg",
