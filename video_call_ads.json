@@ -9,7 +9,7 @@
     "mainScreen2": false,
     "mainScreen3": false,
     "mainScreen4": false,
-    "mainScreen5": false,
+    "mainScreen5": true,
     "mainScreen6": true,
     "mainScreen7": true,
     "mainScreen8": true,
