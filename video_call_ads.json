@@ -4,7 +4,7 @@
     "adsClickLimit": "1",
     "isGoogleBanner": false,
     "isGoogleNative": false,
-    "isVideoEndInterAd": true,
+    "isVideoEndInterAd": false,
     "mainScreen1": true,
     "mainScreen2": false,
     "mainScreen3": true,
