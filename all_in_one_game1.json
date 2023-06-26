@@ -3,7 +3,7 @@
   "data": {
     "adsClickLimit": "1",
     "isGoogleBanner": false,
-    "isGoogleNative": false,
+    "isGoogleNative": true,
     "isGoogleInters":false,
     "isVideoEndInterAd": true,
     "mainScreen1": true,
