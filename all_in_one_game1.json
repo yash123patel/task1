@@ -2,9 +2,9 @@
   "status": "success",
   "data": {
     "adsClickLimit": "1",
-    "isGoogleBanner": true,
-    "isGoogleNative": true,
-    "isGoogleInters":true,
+    "isGoogleBanner": false,
+    "isGoogleNative": false,
+    "isGoogleInters":false,
     "isVideoEndInterAd": true,
     "mainScreen1": true,
     "mainScreen2": true,
