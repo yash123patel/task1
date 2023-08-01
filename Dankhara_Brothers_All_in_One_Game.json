@@ -2,9 +2,9 @@
   "status": "success",
   "data": {
     "adsClickLimit": "1",
-    "isGoogleBanner": false,
-    "isGoogleNative": false,
-    "isGoogleInters":false,
+    "isGoogleBanner": true,
+    "isGoogleNative": true,
+    "isGoogleInters":true,
     "isVideoEndInterAd": true,
     "mainScreen1": true,
     "mainScreen2": true,
@@ -67,10 +67,10 @@
     "mrec_ad_id": "",
     "native_ad_id" : "6fda3dcbc52752a6",
     "banner_normal_ad_id": "d0fa4041f406512b",
-    "open_google_ad_id": "ca-app-pub-3940256099942544/3419835294",
-    "inter_google_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_google_ad_id": "ca-app-pub-3940256099942544/2247696110",
-    "banner_google_ad_id": "ca-app-pub-3940256099942544/6300978111"
+    "open_google_ad_id": "ca-app-pub-3940256099942544/341983529455",
+    "inter_google_ad_id": "ca-app-pub-3940256099942544/103317371255",
+    "native_google_ad_id": "ca-app-pub-3940256099942544/224769611055",
+    "banner_google_ad_id": "ca-app-pub-3940256099942544/630097811155"
   },
   "ads_data": {
     "id": "1",
