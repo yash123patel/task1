@@ -5,7 +5,7 @@
     "isGoogleBanner": true,
     "isGoogleNative": true,
     "isGoogleInters":true,
-    "isVideoEndInterAd": false,
+    "isVideoEndInterAd": true,
     "mainScreen1": true,
     "mainScreen2": true,
     "mainScreen3": true,
