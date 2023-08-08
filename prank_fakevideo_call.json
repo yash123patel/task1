@@ -5,7 +5,7 @@
     "isGoogleBanner": true,
     "isGoogleNative": true,
     "isGoogleInters":true,
-    "isGoogleAppOpen": false,
+    "isGoogleAppOpen": true,
     "homeNative":false,
     "isInterShow1": true,
     "isInterShow2": true,
