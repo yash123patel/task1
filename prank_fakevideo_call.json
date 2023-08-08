@@ -4,7 +4,7 @@
     "adsClickLimit": "1",
     "isGoogleBanner": true,
     "isGoogleNative": true,
-    "isGoogleInters":true,
+    "isGoogleInters":false,
     "isGoogleAppOpen": true,
     "mainScreen1": true,
     "mainScreen2": true,
