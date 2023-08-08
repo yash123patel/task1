@@ -6,6 +6,7 @@
     "isGoogleNative": false,
     "isGoogleInters":false,
     "isGoogleAppOpen": false,
+    "homeNative":false,
     "mainScreen1": true,
     "mainScreen2": true,
     "mainScreen3": true,
