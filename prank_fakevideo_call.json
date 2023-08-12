@@ -6,7 +6,7 @@
     "isGoogleNative": true,
     "isGoogleInters":true,
     "isGoogleAppOpen": true,
-    "homeNative":true,
+    "homeNative":false,
     "isInterShow1": true,
     "isInterShow2": true,
     "isInterShow3": true,
@@ -19,10 +19,10 @@
     "inter_normal_ad_id": "99e062e920e57055 1234",
     "mrec_ad_id": "",
     "banner_normal_ad_id": "69430b14abc33bf4",
-    "open_google_ad_id": "ca-app-pub-3940256099942544/3419835294",
-    "inter_google_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_google_ad_id": "ca-app-pub-3940256099942544/2247696110",
-    "banner_google_ad_id": "ca-app-pub-3940256099942544/6300978111"
+    "open_google_ad_id": "ca-app-pub-3940256099942544/3419835294 55",
+    "inter_google_ad_id": "ca-app-pub-3940256099942544/1033173712 55",
+    "native_google_ad_id": "ca-app-pub-3940256099942544/2247696110 55",
+    "banner_google_ad_id": "ca-app-pub-3940256099942544/6300978111 55"
   }
 
 }
