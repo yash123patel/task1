@@ -6,7 +6,7 @@
     "isGoogleNative": false,
     "isGoogleInters":false,
     "isGoogleAppOpen": false,
-    "homeNative":false,
+    "homeNative":true,
     "isInterShow1": true,
     "isInterShow2": true,
     "isInterShow3": true,
