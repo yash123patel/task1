@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "data": {
+    "adsClickLimit": "1",
+    "isGoogleBanner": false,
+    "isGoogleNative": false,
+    "isGoogleInters":false,
+    "isGoogleAppOpen": false,
+    "homeNative":true,
+    "isInterShow1": true,
+    "isInterShow2": true,
+    "isInterShow3": true,
+    "isInterShow4": true,
+    "isBannerShow1": true,
+    "isBannerShow2": true,
+    "isBannerShow3": true,
+    "open_ad_id": "55095a553eed0efe",
+    "native_normal_id": "2e1e87f611b56cfc",
+    "inter_normal_ad_id": "cb46950538cc95ed",
+    "mrec_ad_id": "e85909afa6db5240",
+    "banner_normal_ad_id": "85ae594cb443a12d",
+    "open_google_ad_id": "ca-app-pub-3940256099942544/3419835294 55",
+    "inter_google_ad_id": "ca-app-pub-3940256099942544/1033173712 55",
+    "native_google_ad_id": "ca-app-pub-3940256099942544/2247696110 55",
+    "banner_google_ad_id": "ca-app-pub-3940256099942544/6300978111 55"
+  }
+
+}
